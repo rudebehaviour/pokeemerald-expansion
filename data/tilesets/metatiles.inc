@@ -565,3 +565,10 @@ gMetatiles_Outside::
 	.align 1
 gMetatileAttributes_Outside::
 	.incbin "data/tilesets/primary/outside/metatile_attributes.bin"
+	.align 1
+gMetatiles_Saffron::
+	.incbin "data/tilesets/secondary/saffron/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Saffron::
+	.incbin "data/tilesets/secondary/saffron/metatile_attributes.bin"
