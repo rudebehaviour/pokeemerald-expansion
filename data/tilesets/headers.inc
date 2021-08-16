@@ -852,3 +852,36 @@ gTileset_Saffron::
 	.4byte gMetatiles_Saffron
 	.4byte gMetatileAttributes_Saffron
 	.4byte NULL
+
+	.align 2
+gTileset_Forest::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_Forest
+	.4byte gTilesetPalettes_Forest
+	.4byte gMetatiles_Forest
+	.4byte gMetatileAttributes_Forest
+	.4byte NULL
+
+	.align 2
+gTileset_School::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_School
+	.4byte gTilesetPalettes_School
+	.4byte gMetatiles_School
+	.4byte gMetatileAttributes_School
+	.4byte NULL
+
+	.align 2
+gTileset_Indoor::
+	.byte TRUE @ is compressed
+	.byte FALSE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_Indoor
+	.4byte gTilesetPalettes_Indoor
+	.4byte gMetatiles_Indoor
+	.4byte gMetatileAttributes_Indoor
+	.4byte NULL

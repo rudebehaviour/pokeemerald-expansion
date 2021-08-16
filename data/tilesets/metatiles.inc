@@ -572,3 +572,24 @@ gMetatiles_Saffron::
 	.align 1
 gMetatileAttributes_Saffron::
 	.incbin "data/tilesets/secondary/saffron/metatile_attributes.bin"
+	.align 1
+gMetatiles_Forest::
+	.incbin "data/tilesets/secondary/forest/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Forest::
+	.incbin "data/tilesets/secondary/forest/metatile_attributes.bin"
+	.align 1
+gMetatiles_School::
+	.incbin "data/tilesets/secondary/school/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_School::
+	.incbin "data/tilesets/secondary/school/metatile_attributes.bin"
+	.align 1
+gMetatiles_Indoor::
+	.incbin "data/tilesets/primary/indoor/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Indoor::
+	.incbin "data/tilesets/primary/indoor/metatile_attributes.bin"

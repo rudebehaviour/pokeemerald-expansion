@@ -1769,3 +1769,63 @@ gTilesetPalettes_Saffron::
 	.align 2
 gTilesetTiles_Saffron::
 	.incbin "data/tilesets/secondary/saffron/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Forest::
+	.incbin "data/tilesets/secondary/forest/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/forest/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_Forest::
+	.incbin "data/tilesets/secondary/forest/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_School::
+	.incbin "data/tilesets/secondary/school/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/school/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_School::
+	.incbin "data/tilesets/secondary/school/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Indoor::
+	.incbin "data/tilesets/primary/indoor/palettes/00.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/01.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/02.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/03.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/04.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/05.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/06.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/07.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/08.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/09.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/10.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/11.gbapal"
+	.incbin "data/tilesets/primary/indoor/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_Indoor::
+	.incbin "data/tilesets/primary/indoor/tiles.4bpp.lz"
