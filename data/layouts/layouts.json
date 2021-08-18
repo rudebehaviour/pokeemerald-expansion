@@ -584,10 +584,10 @@
     {
       "id": "LAYOUT_HOUSE1",
       "name": "House1_Layout",
-      "width": 10,
-      "height": 9,
-      "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "width": 17,
+      "height": 11,
+      "primary_tileset": "gTileset_Indoor",
+      "secondary_tileset": "gTileset_Indoor2",
       "border_filepath": "data/layouts/House1/border.bin",
       "blockdata_filepath": "data/layouts/House1/map.bin"
     },
@@ -794,10 +794,10 @@
     {
       "id": "LAYOUT_HOUSE_WITH_BED",
       "name": "HouseWithBed_Layout",
-      "width": 10,
-      "height": 8,
-      "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "width": 17,
+      "height": 11,
+      "primary_tileset": "gTileset_Indoor",
+      "secondary_tileset": "gTileset_Indoor2",
       "border_filepath": "data/layouts/HouseWithBed/border.bin",
       "blockdata_filepath": "data/layouts/HouseWithBed/map.bin"
     },
