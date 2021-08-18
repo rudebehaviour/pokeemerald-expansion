@@ -885,3 +885,14 @@ gTileset_Indoor::
 	.4byte gMetatiles_Indoor
 	.4byte gMetatileAttributes_Indoor
 	.4byte NULL
+
+	.align 2
+gTileset_Indoor2::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_Indoor2
+	.4byte gTilesetPalettes_Indoor2
+	.4byte gMetatiles_Indoor2
+	.4byte gMetatileAttributes_Indoor2
+	.4byte NULL

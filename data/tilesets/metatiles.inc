@@ -593,3 +593,10 @@ gMetatiles_Indoor::
 	.align 1
 gMetatileAttributes_Indoor::
 	.incbin "data/tilesets/primary/indoor/metatile_attributes.bin"
+	.align 1
+gMetatiles_Indoor2::
+	.incbin "data/tilesets/secondary/indoor2/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Indoor2::
+	.incbin "data/tilesets/secondary/indoor2/metatile_attributes.bin"
