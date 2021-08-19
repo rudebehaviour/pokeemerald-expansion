@@ -1344,8 +1344,8 @@
     {
       "id": "LAYOUT_PETALBURG_WOODS",
       "name": "PetalburgWoods_Layout",
-      "width": 48,
-      "height": 44,
+      "width": 66,
+      "height": 79,
       "primary_tileset": "gTileset_Outside",
       "secondary_tileset": "gTileset_Forest",
       "border_filepath": "data/layouts/PetalburgWoods/border.bin",
