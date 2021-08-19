@@ -600,3 +600,10 @@ gMetatiles_Indoor2::
 	.align 1
 gMetatileAttributes_Indoor2::
 	.incbin "data/tilesets/secondary/indoor2/metatile_attributes.bin"
+	.align 1
+gMetatiles_Gate::
+	.incbin "data/tilesets/secondary/gate/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Gate::
+	.incbin "data/tilesets/secondary/gate/metatile_attributes.bin"
