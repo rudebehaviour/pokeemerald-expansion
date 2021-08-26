@@ -907,3 +907,14 @@ gTileset_Gate::
 	.4byte gMetatiles_Gate
 	.4byte gMetatileAttributes_Gate
 	.4byte NULL
+
+	.align 2
+gTileset_Vephar::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_Vephar
+	.4byte gTilesetPalettes_Vephar
+	.4byte gMetatiles_Vephar
+	.4byte gMetatileAttributes_Vephar
+	.4byte NULL

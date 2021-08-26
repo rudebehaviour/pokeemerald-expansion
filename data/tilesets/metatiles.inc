@@ -607,3 +607,10 @@ gMetatiles_Gate::
 	.align 1
 gMetatileAttributes_Gate::
 	.incbin "data/tilesets/secondary/gate/metatile_attributes.bin"
+	.align 1
+gMetatiles_Vephar::
+	.incbin "data/tilesets/secondary/vephar/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Vephar::
+	.incbin "data/tilesets/secondary/vephar/metatile_attributes.bin"

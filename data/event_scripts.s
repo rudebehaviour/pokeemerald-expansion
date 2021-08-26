@@ -1065,3 +1065,7 @@ Common_EventScript_LegendaryFlewAway:: @ 8273776
 	.include "data/maps/CrocellCiity_Gate/scripts.inc"
 
 	.include "data/maps/CrocellCity_Warehouse/scripts.inc"
+
+	.include "data/maps/CrocellCity_SchoolF1/scripts.inc"
+
+	.include "data/maps/CrocellCIty_Gate2/scripts.inc"

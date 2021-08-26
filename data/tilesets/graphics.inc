@@ -1869,3 +1869,23 @@ gTilesetPalettes_Gate::
 	.align 2
 gTilesetTiles_Gate::
 	.incbin "data/tilesets/secondary/gate/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Vephar::
+	.incbin "data/tilesets/secondary/vephar/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/vephar/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_Vephar::
+	.incbin "data/tilesets/secondary/vephar/tiles.4bpp.lz"

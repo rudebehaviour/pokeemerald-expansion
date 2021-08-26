@@ -165,7 +165,9 @@
     "PetalburgCity_PokemonCenter_2F",
     "PetalburgCity_Mart",
     "CrocellCiity_Gate",
-    "CrocellCity_Warehouse"
+    "CrocellCity_Warehouse",
+    "CrocellCity_SchoolF1",
+    "CrocellCIty_Gate2"
   ],
   "gMapGroup_IndoorSlateport": [
     "SlateportCity_SternsShipyard_1F",

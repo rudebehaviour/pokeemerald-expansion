@@ -151,8 +151,8 @@
       "x": 19,
       "y": 72,
       "elevation": 0,
-      "dest_map": "MAP_ROUTE104",
-      "dest_warp_id": 4
+      "dest_map": "MAP_CROCELL_CITY_GATE2",
+      "dest_warp_id": 1
     },
     {
       "x": 13,

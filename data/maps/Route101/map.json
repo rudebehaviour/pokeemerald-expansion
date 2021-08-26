@@ -14,20 +14,15 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "direction": "up",
-      "offset": 0,
-      "map": "MAP_OLDALE_TOWN"
-    },
-    {
-      "direction": "down",
-      "offset": 0,
+      "direction": "right",
+      "offset": -15,
       "map": "MAP_LITTLEROOT_TOWN"
     }
   ],
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_YOUNGSTER",
-      "x": 16,
+      "x": 24,
       "y": 8,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
@@ -104,7 +99,29 @@
       "flag": "FLAG_HIDE_ROUTE_101_BOY"
     }
   ],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "x": 17,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_CROCELL_CITY_GATE2",
+      "dest_warp_id": 0
+    },
+    {
+      "x": 18,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_CROCELL_CITY_GATE2",
+      "dest_warp_id": 0
+    },
+    {
+      "x": 16,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_CROCELL_CITY_GATE2",
+      "dest_warp_id": 0
+    }
+  ],
   "coord_events": [
     {
       "type": "trigger",
